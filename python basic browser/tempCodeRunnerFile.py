@@ -1,0 +1,6 @@
+        # self.menu.addAction('New Window').triggered.connect(self.new_window)
+        # self.menu.addAction('History').triggered.connect(self.show_history)
+        # self.menu.addAction('Downloads').triggered.connect(self.show_downloads)
+        # self.menu.addAction('Bookmarks').triggered.connect(self.show_bookmarks)
+        # self.menu.addAction('Settings').triggered.connect(self.show_settings)
+        # self.menu.addAction('Exit').triggered.connect(self.exit_browser)
